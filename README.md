@@ -4,7 +4,6 @@ Hello there! 👋<br> My name is TABCHI Omar, and this is my GitHub repository. 
 <h3>Contact Information 📞</h3>
 If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out to me. You can contact me using the following methods:
 
-Phone: +212 6 45 81 67 42 📱<br>
 Email: tabchi.omar@gmail.com 📧
 <hrr>
 <h3>How to Use the Repository 🚀</h3>
