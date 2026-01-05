@@ -1,5 +1,5 @@
 <h2>Welcome to My GitHub Profil ✨<h2><h3>Introduction</h3>
-Hello there! 👋<br> My name is TABCHI Omar, and this is my GitHub repository. I am an IT engineering student at the Moroccan School of Engineering. I have a great passion for various domains within computer science, and I am particularly intrigued by data science and artificial intelligence. This repository is a showcase of my projects, experiments, and contributions related to these fields.
+Hello there! 👋<br> My name is TABCHI Omar, and this is my GitHub repository. This repository is a showcase of my projects, experiments, and contributions related to these fields.
 
 <h3>Contact Information 📞</h3>
 If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out to me. You can contact me using the following methods:
